@@ -2,7 +2,6 @@
 ✨ I am **Ahad Jawaid** studying Computer Science @ **UTD**. I have experience in **Fullstack Development** and **Deep Learning**.
 
 Programming / Professional 
-- 🔭 I'm currently working as an Assistant Researcher
 - 🔬 Research Interest: Deep Learning, and Networking
 - 🌱 I'm currently learning database design, API design, and GANs
 - 📜 I mainly program in Python, and Javascript
