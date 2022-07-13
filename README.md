@@ -1,5 +1,5 @@
 ## Hi there 👋
-✨ I am **Ahad Jawaid** studying Computer Science @ **UTD**. I have experience in **Fullstack Development** and **Deep Learning**.
+✨ I am **Ahad Jawaid** studying Computer Science. I have experience in **Fullstack Development** and **Deep Learning**.
 
 Programming / Professional 
 - 🔬 Research Interest: Deep Learning, and Networking
