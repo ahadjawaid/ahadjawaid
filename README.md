@@ -12,12 +12,6 @@ Programming / Professional
 - 👯 I'm looking to collaborate on new open source projects
 - 📫 Feel free to contact me via my email
 
-Hobbies / Fun
-- 📺️ I like watching animes, sci-fi movies, and horror movies
-- 📚 Read way too many books (favorite genres: sci-fi, fantasy, biographies, technology, history)
-- 🎸 I play the guitar and piano
-- 🏃‍♂️ Avid runner I like to compete in 1600m and 5km races
-- ♜ I play chess for fun (If you ever want to play Dm me)
 
 ---
 <p align = "center">
