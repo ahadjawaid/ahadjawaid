@@ -3,8 +3,7 @@
 
 Programming / Professional 
 - 🔬 Research Interest: Deep Learning, and Networking
-- 🌱 I'm currently learning database design, API design, and GANs
-- 📜 I mainly program in Python, TypeScript, and Javascript
+- 📜 I mainly program in Python, C++, and Javascript
 - 🧰 Have experience with:
 - - 📰 Full-stack web development: React, Redux, Express, MongoDB, SQL
 - - 🤖 Deep learning stack: PyTorch, DGL, Pandas, Numpy, TensorFlow, SciPy
