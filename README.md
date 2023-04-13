@@ -1,13 +1,9 @@
 ## Hi there 👋
-✨ I am **Ahad Jawaid** studying Computer Science. I have experience in **Fullstack Development** and **Deep Learning**.
+✨ I am **Ahad Jawaid** studying Computer Science. I have experience in **Machine Learning** and **Fullstack Development**.
 
-Programming / Professional 
-- 🔬 Research Interest: Deep Learning, and Networking
-- 📜 I mainly program in Python, C++, and Javascript
-- 🧰 Have experience with:
-- - 📰 Full-stack web development: React, Redux, Express, MongoDB, SQL
-- - 🤖 Deep learning stack: PyTorch, DGL, Pandas, Numpy, TensorFlow, SciPy
-- - ☁️ AWS: S3, Elastic Beanstalk, Lambda, DynamoDB
+Programming
+- 🔬 Research Interests: Speech Synthesis, Transfer Learning, NLP, Affective Computing
+- 📜 I mainly program in Python
 - 👯 I'm looking to collaborate on new open source projects
 - 📫 Feel free to contact me via my email
 
