@@ -1,5 +1,5 @@
 ## Hi there 👋
-✨ I am **Ahad Jawaid** studying Computer Science. I have experience in **Machine Learning** and **Fullstack Development**.
+✨ I am **Ahad Jawaid** studying Computer Science. I interested in topics like **Machine Learning** and **Artificial Intelligence**.
 
 Programming
 - 🔬 Research Interests: Speech Synthesis, Transfer Learning, NLP, Affective Computing
