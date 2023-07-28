@@ -1,11 +1,10 @@
 ## Hi there 👋
-✨ I am **Ahad Jawaid** studying Computer Science. I interested in topics like **Machine Learning** and **Artificial Intelligence**.
+✨ I am **Ahad Jawaid** studying Computer Science. I interested in **Artificial Intelligence** and **Software Engineering**.
 
 Programming
-- 🔬 Research Interests: Speech Synthesis, Transfer Learning, NLP, Affective Computing
+- 🔬 Research Interests: Reinforcement Learning, Speech Synthesis
 - 📜 I mainly program in Python
 - 👯 I'm looking to collaborate on new open source projects
-- 📫 Feel free to contact me via my email
 
 
 ---
